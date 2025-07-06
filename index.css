@@ -1,0 +1,11 @@
+#time{
+    font-family: "Century Gothic", sans-serif;
+    font-size: 4rem;
+    font-weight: bolder;
+}
+#clock-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
