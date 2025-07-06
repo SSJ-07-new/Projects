@@ -8,4 +8,24 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: darkgreen;
+}
+#layer1{
+    background-color: forestgreen;
+    border: 4px double;
+    width: 340px;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#time{
+    background-color: lawngreen;
+    border-radius: 10px;
+    border-style: dashed;
+    border-color: darkgreen;
+    width: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
